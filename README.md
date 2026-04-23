@@ -1,66 +1,47 @@
 <div align="center">
 
-<img src="./assets/icons8-ии-курсор-48.png" width="64" alt="Cursor" />
-
-# orionvega2343-cloud
-
-**Junior Frontend Developer · Moscow · React · Open to work**
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Nesanesis-7c3aed?style=for-the-badge&logo=telegram)](https://t.me/Nesanesis)
-[![VK](https://img.shields.io/badge/VK-nesanesis-7c3aed?style=for-the-badge&logo=vk)](https://vk.com/nesanesis)
-[![Email](https://img.shields.io/badge/Email-orionvega2343%40gmail.com-7c3aed?style=for-the-badge&logo=gmail)](mailto:orionvega2343@gmail.com)
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=React+%7C+Vite+%7C+Learning+by+building;HTML+%7C+CSS+%7C+JavaScript;Algorithms+%26+Teamwork" alt="typing" />
-
-<br/>
-
-### Stats & Reach
-
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=orionvega2343-cloud&style=for-the-badge&color=7c3aed" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/orionvega2343-cloud?label=followers&style=for-the-badge&color=7c3aed" />
-<img alt="Stars" src="https://img.shields.io/github/stars/orionvega2343-cloud?label=stars&style=for-the-badge&color=7c3aed" />
-
-<br/>
-
-### For developers
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-7c3aed?style=for-the-badge&logo=github)](https://github.com/orionvega2343-cloud)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-7c3aed?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/orionvega2343-cloud/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-7c3aed?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/)
-[![Codewars](https://img.shields.io/badge/Codewars-Profile-7c3aed?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/orionvega2343-cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
-[![Habr Career](https://img.shields.io/badge/Habr_Career-CV-7c3aed?style=for-the-badge)](https://career.habr.com/)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,70:6d28d9,100:a78bfa&height=250&section=header&text=orionvega&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=backend%20dev%20%7C%20go%20%7C%20moscow%20%F0%9F%87%B7%F0%9F%87%BA&descAlignY=60&descSize=20&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=18+y.o.+backend+developer+from+Moscow+%F0%9F%87%B7%F0%9F%87%BA;18-летний+бэкенд+разраб+из+Москвы+%F0%9F%8F%99;building+REST+APIs+%26+scrapers+in+Go;пишу+REST+API+и+скраперы+на+Go;obsessed+with+algorithms+%26+hard+problems;одержим+алгоритмами+и+сложными+задачами)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
 ---
 
-## About me / Обо мне
+## 👤 About me / Обо мне
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**EN**
+**🇬🇧 EN**
 
-- Junior Frontend developer from **Moscow**
-- Learning since **Sep 2025** (HTML → CSS → JS → React)
-- Focus: **React**, forms, state, animations, UI
-- I like algorithms and teamwork
-- **Open for junior roles** (remote / office)
+- Backend developer from **Moscow** 🏙
+- Learning since **Sep 2025** (JS → Go → Python → PostgreSQL)
+- 18 y.o. — writing real projects, not just tutorials
+- Focus: **Go**, REST APIs, concurrency, algorithms
+- Obsessed with data structures and non-trivial problems
+- Use AI tools daily (Claude, Cursor) — work smarter
+- **Open to junior roles** (remote / office)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**RU**
+**🇷🇺 RU**
 
-- Junior Frontend разработчик из **Москвы**
-- Учусь с **сентября 2025** (HTML → CSS → JS → React)
-- Фокус: **React**, формы, state, анимации, UI
-- Люблю алгоритмы и командную работу
-- **Открыт для предложений** (удалёнка / офис)
+- Backend разработчик из **Москвы** 🏙
+- Учусь с **сентября 2025** (JS → Go → Python → PostgreSQL)
+- 18 лет — пишу реальные проекты, не просто курсы
+- Фокус: **Go**, REST API, конкурентность, алгоритмы
+- Люблю сложные структуры данных и нетривиальные задачи
+- Работаю с AI-инструментами каждый день (Claude, Cursor)
+- **Открыт для junior вакансий** (удалёнка / офис)
 
 </td>
 </tr>
@@ -68,74 +49,211 @@
 
 ---
 
-## Stack
+## 🛠 Stack / Стек
 
-**Languages / Языки**
+### 💻 Languages / Языки
 
-<p>
-  <img src="./assets/free-icon-html-5-5968267.png" width="36" alt="HTML" />
-  <img src="./assets/free-icon-css-3-5968242.png" width="36" alt="CSS" />
-  <img src="./assets/free-icon-js-5968292.png" width="36" alt="JavaScript" />
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=go,js,python&theme=dark" />
+</div>
 
-**Tools / Инструменты**
+### 🗄 Databases / Базы данных
 
-<p>
-  <img src="./assets/icons8-реакция-80.png" width="36" alt="React" />
-  <img src="./assets/icons8-node-js-48.png" width="36" alt="Node.js" />
-  <img src="./assets/icons8-figma.gif" width="36" alt="Figma" />
-  <img src="./assets/icons8-ии-курсор-48.png" width="36" alt="Cursor" />
-  <img src="./assets/icons8-youtube-48.png" width="36" alt="YouTube" />
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+</div>
 
-<details>
-<summary><b>What I can do / Что уже умею</b></summary>
+### 🔧 Tools / Инструменты
 
-- Components, props, state, forms, basic routing
-- CSS modules, layout, animations
-- Компоненты, props, state, формы, базовый роутинг, верстка, CSS-модули
-
-</details>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,github,figma,react,cursor&theme=dark" />
+</div>
 
 ---
 
-## Learning path / Таблица обучения
+## 🚀 Projects / Проекты
 
-| Period | Course | Platform |
-|--------|--------|----------|
-| Sep 2025 – Oct 2025 | Figma | YouTube |
-| Oct 2025 – Jan 2026 | HTML & CSS | YouTube |
-| Jan 2026 – Mar 2026 | JavaScript | YouTube |
-| Mar 2026 – present | React | YouTube |
+<div align="center">
+
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=orionvega2343-cloud&repo=blog-api-go&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/orionvega2343-cloud)&nbsp;&nbsp;[![Card](https://github-readme-stats.vercel.app/api/pin/?username=orionvega2343-cloud&repo=go-scraper&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/orionvega2343-cloud)
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔵 blog-api-go
+
+🇬🇧 Full REST API for a blog — posts, comments, multiple handlers. No frameworks, pure `net/http`. First big Go project.
+
+🇷🇺 Полноценный REST API для блога — посты, комменты, хендлеры. Без фреймворков, чистый `net/http`. Первый большой Go-проект.
+
+`Go` `net/http` `JSON` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 go-scraper
+
+🇬🇧 Concurrent web scraper via goroutines. Fetches multiple URLs in parallel, writes to file. The moment goroutines finally clicked.
+
+🇷🇺 Конкурентный скрапер на горутинах. Параллельно обходит несколько URL, пишет результат в файл. Момент когда горутины стали понятны.
+
+`Go` `goroutines` `channels` `sync`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*🔨 more stuff incoming / всегда что-то строю*
+
+</div>
 
 ---
 
-## Pinned projects / Закреплённое
+## 📊 GitHub Stats / Статистика
 
-| Project | Description |
-|---------|-------------|
-| **FastCraft Store UI** | Donation shop (filters, modal, animations) |
-| **ReactStudy** | Hooks practice (useState, useReducer, useRef, memo) |
-| **Grades diary** | UI practice (forms, modal, components) |
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=orionvega2343-cloud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orionvega2343-cloud&layout=compact&langs_count=6&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=orionvega2343-cloud&theme=tokyonight&border=7c3aed&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## GitHub stats
+## 📈 Activity / Активность
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=orionvega2343-cloud&show_icons=true&hide_title=true&theme=radical&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orionvega2343-cloud&layout=compact&theme=radical&bg_color=0d1117&title_color=7c3aed" />
-</p>
+<div align="center">
 
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=orionvega2343-cloud&theme=radical&hide_border=true" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=orionvega2343-cloud&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=302b63)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎮 Fun zone / Приколюха
+
+<div align="center">
+
+```go
+// Developer type quiz / Определи свой тип разраба:
+
+func whoAmI(linesOfCode int, usesFrameworks bool) string {
+    switch {
+    case linesOfCode > 1000 && !usesFrameworks:
+        return "backend chad — pure net/http enjoyer 💪"  // ← это я / that's me
+    case usesFrameworks:
+        return "framework dependent 😅"
+    default:
+        return "still figuring it out, keep going 🔥"
+    }
+}
+
+// output: "backend chad — pure net/http enjoyer 💪"
+```
+
+</div>
+
+
+
+<br>
+
+
+
+---
+
+## 👁 Profile / Профиль
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=orionvega2343-cloud&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/orionvega2343-cloud?color=a78bfa&style=for-the-badge&logo=github&label=FOLLOWERS)
+
+</div>
+
+---
+
+## 🌐 Contacts / Контакты
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@orionvega-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orionvega)
+[![GitHub](https://img.shields.io/badge/GitHub-orionvega2343--cloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orionvega2343-cloud)
+
+</div>
+
+---
+
+## 💬 Quotes / Цитаты
+
+<div align="center">
+
+> 🇬🇧 *"Programs must be written for people to read, and only incidentally for machines to execute."*
+>
+> 🇷🇺 *«Программы должны писаться для людей — машинам в общем-то всё равно.»*
+>
+> — Harold Abelson
+
+<br>
+
+> 🇬🇧 *"Simplicity is a great virtue but it requires hard work to achieve it."*
+>
+> 🇷🇺 *«Простота — великое достоинство, но она требует тяжёлой работы.»*
+>
+> — Dijkstra
+
+<br>
+
+> 🇬🇧 *"First, solve the problem. Then, write the code."*
+>
+> 🇷🇺 *«Сначала реши задачу. Потом пиши код.»*
+>
+> — John Johnson
+
+</div>
 
 ---
 
 <div align="center">
 
-> **EN:** *"Learning sticks when you ship."*  
-> **RU:** *«Лучше один законченный проект, чем десять начатых.»*
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding vibes"/>
+
+<br>
+
+*Still writing code at 2am / Всё ещё пишу код в 2 ночи* 🌙
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=keep+building+%2F+продолжай+строить&fontSize=18&fontColor=a78bfa&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
