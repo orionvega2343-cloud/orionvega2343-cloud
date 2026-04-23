@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=18+y.o.+backend+developer+from+Moscow+%F0%9F%87%B7%F0%9F%87%BA;18-летний+бэкенд+разраб+из+Москвы+%F0%9F%8F%99;building+REST+APIs+%26+scrapers+in+Go;пишу+REST+API+и+скраперы+на+Go;obsessed+with+algorithms+%26+hard+problems;одержим+алгоритмами+и+сложными+задачами)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=backend+developer+from+Moscow+%F0%9F%87%B7%F0%9F%87%BA;Go+%E2%80%94+main+%7C+JS+%E2%80%94+secondary;algorithms+%3E+frameworks;first+solve+the+problem%2C+then+write+the+code)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,8 +24,7 @@
 
 - Backend developer from **Moscow** 🏙
 - Learning since **Sep 2025** (JS → Go → Python → PostgreSQL)
-- 18 y.o. — writing real projects, not just tutorials
-- Focus: **Go**, REST APIs, concurrency, algorithms
+- 18 y.o., focused on backend and algorithms
 - Obsessed with data structures and non-trivial problems
 - Use AI tools daily (Claude, Cursor) — work smarter
 - **Open to junior roles** (remote / office)
@@ -37,8 +36,7 @@
 
 - Backend разработчик из **Москвы** 🏙
 - Учусь с **сентября 2025** (JS → Go → Python → PostgreSQL)
-- 18 лет — пишу реальные проекты, не просто курсы
-- Фокус: **Go**, REST API, конкурентность, алгоритмы
+- 18 лет, фокус на бэкенде и алгоритмах
 - Люблю сложные структуры данных и нетривиальные задачи
 - Работаю с AI-инструментами каждый день (Claude, Cursor)
 - **Открыт для junior вакансий** (удалёнка / офис)
