@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,70:6d28d9,100:a78bfa&height=250&section=header&text=orionvega&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=backend%20dev%20%7C%20go%20%7C%20moscow%20%F0%9F%87%B7%F0%9F%87%BA&descAlignY=60&descSize=20&stroke=7c3aed&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,70:6d28d9,100:a78bfa&height=250&section=header&text=orionvega&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=junior%20go%20developer%20%7C%20backend%20%7C%20moscow%20%F0%9F%87%B7%F0%9F%87%BA&descAlignY=60&descSize=20&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=backend+developer+from+Moscow+%F0%9F%87%B7%F0%9F%87%BA;Go+%E2%80%94+main+%7C+JS+%E2%80%94+secondary;algorithms+%3E+frameworks;first+solve+the+problem%2C+then+write+the+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=junior+go+developer+from+Moscow+%F0%9F%87%B7%F0%9F%87%BA;REST+%2B+gRPC+%7C+PostgreSQL+%7C+Redis;layered+architecture+%7C+unit-tested;first+solve+the+problem%2C+then+write+the+code)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,24 +22,24 @@
 
 **🇬🇧 EN**
 
-- Backend developer from **Moscow** 🏙
-- Learning since **Sep 2025** (JS → Go → Python → PostgreSQL)
-- 18 y.o., focused on backend and algorithms
-- Obsessed with data structures and non-trivial problems
-- Use AI tools daily (Claude, Cursor) — work smarter
-- **Open to junior roles** (remote / office)
+- Junior **Go / backend** developer from **Moscow** 🏙
+- **~1 year** in backend development (since Sep 2025)
+- 18 y.o., focused on Go, microservices and algorithms
+- Design **layered services** (handlers / service / repository), **REST + gRPC**
+- **PostgreSQL, Redis**, concurrency on goroutines & channels
+- **Open to first commercial Junior Go role** (remote / office)
 
 </td>
 <td width="50%" valign="top">
 
 **🇷🇺 RU**
 
-- Backend разработчик из **Москвы** 🏙
-- Учусь с **сентября 2025** (JS → Go → Python → PostgreSQL)
-- 18 лет, фокус на бэкенде и алгоритмах
-- Люблю сложные структуры данных и нетривиальные задачи
-- Работаю с AI-инструментами каждый день (Claude, Cursor)
-- **Открыт для junior вакансий** (удалёнка / офис)
+- Junior **Go / backend** разработчик из **Москвы** 🏙
+- **~1 год** в бэкенд-разработке (с сентября 2025)
+- 18 лет, фокус на Go, микросервисах и алгоритмах
+- Проектирую **слоистые сервисы** (handlers / service / repository), **REST + gRPC**
+- **PostgreSQL, Redis**, конкурентность на goroutines и каналах
+- **Ищу первую коммерческую Junior Go позицию** (удалёнка / офис)
 
 </td>
 </tr>
@@ -49,31 +49,45 @@
 
 ## 🛠 Stack / Стек
 
-### 💻 Languages / Языки
+### 💻 Language / Язык
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=go,js,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go&theme=dark" />
 </div>
 
 ### 🗄 Databases / Базы данных
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
 </div>
 
 ### 🔧 Tools / Инструменты
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,github,figma,react,cursor&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,github&theme=dark" />
+</div>
+
+### 📦 Frameworks & libs / Фреймворки и библиотеки
+
+<div align="left">
+
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-7c3aed?style=for-the-badge&logo=grpc&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-a78bfa?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![sqlx](https://img.shields.io/badge/sqlx-302b63?style=for-the-badge&logo=postgresql&logoColor=white)
+![telebot](https://img.shields.io/badge/telebot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-6d28d9?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 </div>
 
 ---
 
-## 🚀 Projects / Проекты
+## 🚀 Top projects / Топ-проекты
 
 <div align="center">
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=orionvega2343-cloud&repo=blog-api-go&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/orionvega2343-cloud)&nbsp;&nbsp;[![Card](https://github-readme-stats.vercel.app/api/pin/?username=orionvega2343-cloud&repo=go-scraper&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/orionvega2343-cloud)
+[![FlowMoney](https://github-readme-stats.vercel.app/api/pin/?username=orionvega2343-cloud&repo=flowmoney&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/orionvega2343-cloud/flowmoney)&nbsp;&nbsp;[![VacancyMonitor](https://github-readme-stats.vercel.app/api/pin/?username=orionvega2343-cloud&repo=VacancyMonitor&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/orionvega2343-cloud/VacancyMonitor)
 
 </div>
 
@@ -83,24 +97,48 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 blog-api-go
+### 🔵 FlowMoney
 
-🇬🇧 Full REST API for a blog — posts, comments, multiple handlers. No frameworks, pure `net/http`. First big Go project.
+🇬🇧 Microservice backend for finance tracking. Split into two independent services (`api` + `bot`). Auth & error handling in middleware, `service`/`handlers` unit-tested with repo mocks, JWT + DB migrations, PostgreSQL via `sqlx`, `docker-compose`.
 
-🇷🇺 Полноценный REST API для блога — посты, комменты, хендлеры. Без фреймворков, чистый `net/http`. Первый большой Go-проект.
+🇷🇺 Микросервисный backend для учёта финансов. Разделён на два независимых сервиса (`api` + `bot`). Аутентификация и обработка ошибок в middleware, `service`/`handlers` покрыты unit-тестами с моками, JWT + миграции, PostgreSQL через `sqlx`, `docker-compose`.
 
-`Go` `net/http` `JSON` `PostgreSQL`
+`Go` `PostgreSQL` `sqlx` `JWT` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔵 go-scraper
+### 🔵 VacancyMonitor
 
-🇬🇧 Concurrent web scraper via goroutines. Fetches multiple URLs in parallel, writes to file. The moment goroutines finally clicked.
+🇬🇧 Concurrent hh.ru vacancy monitor with Telegram alerts. Worker pool (dispatcher + processor) over a shared channel, Redis dedup + rate limiting (`SAdd`, `INCR`/`EXPIRE`), graceful shutdown.
 
-🇷🇺 Конкурентный скрапер на горутинах. Параллельно обходит несколько URL, пишет результат в файл. Момент когда горутины стали понятны.
+🇷🇺 Конкурентный мониторинг вакансий hh.ru с уведомлениями в Telegram. Worker pool (dispatcher + processor) через общий канал, дедупликация и rate limiting на Redis (`SAdd`, `INCR`/`EXPIRE`), graceful shutdown.
 
-`Go` `goroutines` `channels` `sync`
+`Go` `goroutines` `channels` `Redis` `telebot` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔵 Insightly
+
+🇬🇧 REST API for AI-powered CSV analysis. Layered `handlers → services → repositories`, **22 unit tests** with hand-written mocks, JWT auth, Redis rate limiting, Dockerized.
+
+🇷🇺 REST API для AI-анализа CSV. Слоистая архитектура `handlers → services → repositories`, **22 unit-теста** с ручными моками, JWT, rate limiting на Redis, контейнеризация.
+
+`Go` `Gin` `PostgreSQL` `Redis` `JWT` `OpenAI` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🟣 AiGateway · *WIP*
+
+🇬🇧 Broker microservice for AI event enrichment. Producer sends events over REST, service enriches via AI API, Consumer receives over gRPC — sides don't know each other. Thin REST/gRPC adapters over a shared `internal/` core.
+
+🇷🇺 Брокер-микросервис для AI-обогащения событий. Producer шлёт события по REST, сервис обогащает через AI, Consumer получает по gRPC — стороны не знают друг о друге. Тонкие REST/gRPC-адаптеры над общим ядром `internal/`.
+
+`Go` `Gin` `gRPC` `PostgreSQL` `Redis` `Docker`
 
 </td>
 </tr>
@@ -143,53 +181,12 @@
 
 ---
 
-## 🎮 Fun zone / Приколюха
-
-<div align="center">
-
-```go
-// Developer type quiz / Определи свой тип разраба:
-
-func whoAmI(linesOfCode int, usesFrameworks bool) string {
-    switch {
-    case linesOfCode > 1000 && !usesFrameworks:
-        return "backend chad — pure net/http enjoyer 💪"  // ← это я / that's me
-    case usesFrameworks:
-        return "framework dependent 😅"
-    default:
-        return "still figuring it out, keep going 🔥"
-    }
-}
-
-// output: "backend chad — pure net/http enjoyer 💪"
-```
-
-</div>
-
-
-
-<br>
-
-
-
----
-
-## 👁 Profile / Профиль
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=orionvega2343-cloud&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/orionvega2343-cloud?color=a78bfa&style=for-the-badge&logo=github&label=FOLLOWERS)
-
-</div>
-
----
-
 ## 🌐 Contacts / Контакты
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@orionvega-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orionvega)
+[![Telegram](https://img.shields.io/badge/Telegram-@weobo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/weobo)
+[![Email](https://img.shields.io/badge/Email-ao0004@mail.ru-6d28d9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:ao0004@mail.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-orionvega2343--cloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orionvega2343-cloud)
 
 </div>
@@ -200,11 +197,11 @@ func whoAmI(linesOfCode int, usesFrameworks bool) string {
 
 <div align="center">
 
-> 🇬🇧 *"Programs must be written for people to read, and only incidentally for machines to execute."*
+> 🇬🇧 *"First, solve the problem. Then, write the code."*
 >
-> 🇷🇺 *«Программы должны писаться для людей — машинам в общем-то всё равно.»*
+> 🇷🇺 *«Сначала реши задачу. Потом пиши код.»*
 >
-> — Harold Abelson
+> — John Johnson
 
 <br>
 
@@ -214,29 +211,9 @@ func whoAmI(linesOfCode int, usesFrameworks bool) string {
 >
 > — Dijkstra
 
-<br>
-
-> 🇬🇧 *"First, solve the problem. Then, write the code."*
->
-> 🇷🇺 *«Сначала реши задачу. Потом пиши код.»*
->
-> — John Johnson
-
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding vibes"/>
-
-<br>
-
-*Still writing code at 2am / Всё ещё пишу код в 2 ночи* 🌙
-
-</div>
-
-<br>
 
 <div align="center">
 
