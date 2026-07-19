@@ -23,7 +23,7 @@
 **🇬🇧 EN**
 
 - Junior **Go / backend** developer from **Moscow** 🏙
-- **~1 year** in backend development (since Sep 2025)
+- **~1 year** in backend development
 - 18 y.o., focused on Go, microservices and algorithms
 - Design **layered services** (handlers / service / repository), **REST + gRPC**
 - **PostgreSQL, Redis**, concurrency on goroutines & channels
@@ -35,7 +35,7 @@
 **🇷🇺 RU**
 
 - Junior **Go / backend** разработчик из **Москвы** 🏙
-- **~1 год** в бэкенд-разработке (с сентября 2025)
+- **~1 год** в бэкенд-разработке
 - 18 лет, фокус на Go, микросервисах и алгоритмах
 - Проектирую **слоистые сервисы** (handlers / service / repository), **REST + gRPC**
 - **PostgreSQL, Redis**, конкурентность на goroutines и каналах
